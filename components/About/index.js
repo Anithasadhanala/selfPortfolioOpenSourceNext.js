@@ -34,8 +34,8 @@ const About = () => {
                 {skillsList.map((each)=><SkillItem details={each} key={each.name}/>)}
             </ul>
             <h1  className="text-yellow-400 font-bold text-[25px] md:text-[40px] text-center mb-4 mt-[30px] md:mt-[90px]">EXPERIENCE <span className="text-white">&</span> EDUCATION</h1>
-            <div className="flex flex-col md:flex-row w-screen  flex-wrap md:w-[1200px] mb-8 ">
-              <div>
+            <div className="flex flex-col md:flex-row w-screen  flex-wrap md:w-[1200px] mb-8">
+              <div className='mb-16'>
                 <Timeline position={position} >
                 <ul>
                     {experienceDetails.map((each)=><TimelineSingleItem key={each.id} details={each} />)}

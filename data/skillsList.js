@@ -36,24 +36,18 @@ image to showcase your skill in your skills section
       image: "https://cdn.worldvectorlogo.com/logos/express-109.svg",
     },
     {
-        name: "MySQL",
-        image: "https://cdn.worldvectorlogo.com/logos/mysql-6.svg",
-      },
-         
-   
+      name: "MySQL",
+      image: "https://cdn.worldvectorlogo.com/logos/mysql-6.svg",
+    },
     {
-        name: "HTML",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
-      },
-      {
-        name: "CSS",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
-      },
+      name: "HTML",
+      image:
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+    },
     {
-      name: "Excel",
-      image: "https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg",
+      name: "CSS",
+      image:
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
     },
     {
       name: "Jira",
@@ -108,9 +102,9 @@ image to showcase your skill in your skills section
       image: "https://cdn.worldvectorlogo.com/logos/vitejs.svg",
     },
     {
-      name: "Github Actions",
+      name: "Redis",
       image:
-        "https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg",
+        "https://cdn.worldvectorlogo.com/logos/redis.svg",
     },
   ];
 
