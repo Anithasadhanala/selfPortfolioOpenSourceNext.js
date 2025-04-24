@@ -21,7 +21,6 @@ export const contactDetails = [
                 id:1,
                 name: "github",
                 icon: <svg
-
                 width="48"
                 height="48"
                 viewBox="0 0 66 66"
@@ -83,6 +82,7 @@ export const contactDetails = [
                 viewBox="0 0 57 57"
                 fill="#fff"
                 xmlns="http://www.w3.org/2000/svg"
+                
               >
                 <path
                   fillRule="evenodd"

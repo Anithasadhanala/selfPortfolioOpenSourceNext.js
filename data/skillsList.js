@@ -36,10 +36,6 @@ image to showcase your skill in your skills section
       image: "https://cdn.worldvectorlogo.com/logos/express-109.svg",
     },
     {
-      name: "MongoDB",
-      image: "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
-    },
-    {
         name: "MySQL",
         image: "https://cdn.worldvectorlogo.com/logos/mysql-6.svg",
       },
@@ -73,8 +69,6 @@ image to showcase your skill in your skills section
       name: "Postman",
       image : "https://cdn.worldvectorlogo.com/logos/postman.svg",
     },
-  
-  
     {
       name: "Git",
       image: "https://cdn.worldvectorlogo.com/logos/git-icon.svg",
@@ -101,10 +95,13 @@ image to showcase your skill in your skills section
     },
     
     {
-      name: "PHP",
-      image: "https://cdn.worldvectorlogo.com/logos/php-1.svg",
+      name: "Ruby",
+      image: "https://cdn.worldvectorlogo.com/logos/ruby.svg",
     },
-   
+    {
+      name: "Ruby on Rails",
+      image: "https://cdn.worldvectorlogo.com/logos/rails.svg",
+    },
     
     {
       name: "Vite",
