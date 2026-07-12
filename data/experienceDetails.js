@@ -14,6 +14,13 @@
 export const experienceDetails = [
     {
         id:1,
+        date: "2025 - now",
+        subject : "Software Engineer",
+        organisation: "Solera",
+        description: "Contributing on microservices architecture and developing scalable REST APIs using Dotnets and contributing to code reviews."
+    },
+    {
+        id:2,
         date: "2024 - 2025",
         subject : "Associate Software Engineer",
         organisation: "Auzmor",
@@ -21,7 +28,7 @@ export const experienceDetails = [
 
     },
     {
-        id:2,
+        id:3,
         date: "2022 - 2023",
         subject : "Web Dev Intern",
         organisation: "Hydrotribe",
@@ -29,7 +36,7 @@ export const experienceDetails = [
         
     },
     {
-        id:3,
+        id:4,
         date: "2022-2022",
         subject : "QA Intern",
         organisation: "My Furries",

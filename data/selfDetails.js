@@ -14,8 +14,7 @@
 export const selfDetails = [
     {
         name: "ANITHA",
-        jobRole: "WEB DEVELOPER",
+        jobRole: "Software Engineer",
         description: "I’m developer and problem solver from India with high passion of creating softwares That looks and works great. I am passionate about the solving the real world problems ensuring all the possible testcases.",
-        resumeDriveLink: "https://drive.google.com/file/d/1RFrlfdvNZ9MmO5MsugI4u9Iwq1P5PkRg/view?usp=sharing",
     }
 ]
